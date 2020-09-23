@@ -5,7 +5,7 @@ Follow along with [the course](https://hendrixer.github.io/nextjs-course/)
 
 ## Course Table of Contents
 - [X] Intro
-- [ ] Routing
+- [X] Routing
 - [ ] Config
 - [ ] API
 - [ ] Deployment
